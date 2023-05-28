@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.teewhy.net/'
 languageCode = 'en-us'
 title = "Tyler's Vault"
 theme = 'terminal'
@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "blue"
   showMenuItems = 5
   showLanguageSelector = false
   fullWidthTheme = false
@@ -60,7 +60,7 @@ paginate = 5
     subtitle = "No thoughts, head empty..."
     owner = ""
     keywords = ""
-    copyright = "©2023 Tyler Yeh"
+    copyright = "©2023 Tyler Yeh. Powered by Hugo"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -72,7 +72,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Tyler"
+      logoText = "TYLER"
       logoHomeLink = "/"
 
     [languages.en.menu]
