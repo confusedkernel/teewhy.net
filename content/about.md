@@ -1,10 +1,10 @@
 ---
 title: "About"
-author: "Tyler"
+readingTime: false
 ---
 # About Me
 
-Tyler Yeh /tai·lr y·eh/
+**Tyler Yeh** /tai·lr y·eh/
 
 he/him | 21
 
@@ -19,3 +19,4 @@ Check out [My curated playlist, 2022](https://www.youtube.com/watch?v=xvFZjo5PgG
 # Find Me
 - [GitHub](https://github.com/nottyl)
 - [GitLab](https://gitlab.com/tyleryeh)
+- [Music](https://music.apple.com/profile/tybebored)

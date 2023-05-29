@@ -54,13 +54,14 @@ paginate = 5
   site = ""
 
 [languages]
+  [languages.en]
+    copyright = "© 2023 Tyler Yeh"
   [languages.en.params]
     languageName = "English"
     title = "Tyler's Vault"
     subtitle = "No thoughts, head empty."
-    owner = "Tyler Yeh"
+    owner = ""
     keywords = ""
-    copyright = "©2023 Tyler Yeh"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -72,24 +73,28 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "TYLER"
+      logoText = ">_ TYLER'S VAULT"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "home"
+        weight = 1
+        name = "home"
+        url = "/"
+      [[languages.en.menu.main]]
         identifier = "about"
+        weight = 2
         name = "about"
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "tags"
+        weight = 3
         name = "tags"
         url = "/tags"
       [[languages.en.menu.main]]
-        identifier = "archives"
-        name = "archives"
-        url = "/archives"
-      [[languages.en.menu.main]]
         identifier = "github"
+        weight = 5
         name = "github"
         url = "https://github.com/nottyl"
 
