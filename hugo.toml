@@ -57,7 +57,7 @@ paginate = 5
   [languages.en.params]
     languageName = "English"
     title = "Tyler's Vault"
-    subtitle = "No thoughts, head empty..."
+    subtitle = "No thoughts, head empty."
     owner = ""
     keywords = ""
     copyright = "©2023 Tyler Yeh. Powered by Hugo"
