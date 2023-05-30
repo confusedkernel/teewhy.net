@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tyler&#39;s Vault</title>
-    <link>http://www.teewhy.net/</link>
-    <description>Recent content on Tyler&#39;s Vault</description>
+    <title>life on Tyler&#39;s Vault</title>
+    <link>http://www.teewhy.net/categories/life/</link>
+    <description>Recent content in life on Tyler&#39;s Vault</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Tyler Yeh</copyright>
-    <lastBuildDate>Mon, 29 May 2023 21:26:25 +0800</lastBuildDate><atom:link href="http://www.teewhy.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 21:26:25 +0800</lastBuildDate><atom:link href="http://www.teewhy.net/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Day in Life</title>
       <link>http://www.teewhy.net/posts/life-230529/</link>
@@ -51,35 +51,6 @@ THE BIRDSTRIKE This afternoon I was doing my orienteering assignment in the park
 &lt;p&gt;I think that the most valuable lesson I learned today is that decision-making is especially important during a panic. The art of making a rational decision even if you&amp;rsquo;re panicking on the inside is important. To understand your limits and make decisions accordingly, so that you wouldn&amp;rsquo;t embarrass yourself as much as I did.&lt;/p&gt;
 &lt;p&gt;I also thought about ways I could save the interview, perhaps by starting with ignoring all calls, even if it&amp;rsquo;s an emergency. I don&amp;rsquo;t know how it looked from the interviewer&amp;rsquo;s perspective, but if you&amp;rsquo;re the interviewer and you&amp;rsquo;re reading this, I&amp;rsquo;m sincerely sorry for the trouble I caused. (Disconnecting the call for a whole minute.)&lt;/p&gt;
 &lt;p&gt;Anyhow, I would say that I did my best considering the dire situation I was in (I just got attacked by a random bird.) And I hope that none of you have to go through what I did in an interview.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.teewhy.net/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.teewhy.net/about/</guid>
-      <description>About Me Tyler Yeh /tai·lr y·eh/
-he/him | 21
-Born in 2002. Music and tech enthusiast.
-Currently studying English and Computer Science.
-Talk to me about all things Taylor Swift or tech and I&amp;rsquo;ll be really happy.
-Check out My curated playlist, 2022
-Find Me GitHub GitLab Music </description>
-      <content>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Tyler Yeh&lt;/strong&gt; /tai·lr y·eh/&lt;/p&gt;
-&lt;p&gt;he/him | 21&lt;/p&gt;
-&lt;p&gt;Born in 2002. Music and tech enthusiast.&lt;/p&gt;
-&lt;p&gt;Currently studying English and Computer Science.&lt;/p&gt;
-&lt;p&gt;Talk to me about all things Taylor Swift or tech and I&amp;rsquo;ll be really happy.&lt;/p&gt;
-&lt;p&gt;Check out &lt;a href=&#34;https://www.youtube.com/watch?v=xvFZjo5PgG0&#34;&gt;My curated playlist, 2022&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;find-me&#34;&gt;Find Me&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/nottyl&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitlab.com/tyleryeh&#34;&gt;GitLab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://music.apple.com/profile/tybebored&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </content>
     </item>
     
