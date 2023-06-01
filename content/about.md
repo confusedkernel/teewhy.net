@@ -8,9 +8,9 @@ readingTime: false
 
 Initially started this website as some sort of portfolio, but now I just write whatever I want.
 
-The "Void" name is inspired by "Janet's Void" from my favorite show *The Good Place*, also because sometimes I feel like screaming into the void when I post here.
+The "Void" name is inspired by "[Janet's Void](https://thegoodplace.fandom.com/wiki/The_Void)" from my favorite show *The Good Place*, also because sometimes I feel like screaming into the void when I post here.
 
-Website is powered by Hugo.
+Website is powered by [Hugo](https://gohugo.io/).
 
 ---
 

@@ -60,7 +60,7 @@ paginate = 5
     copyright = "© 2023 Tyler Yeh"
   [languages.en.params]
     languageName = "English"
-    title = "Tyler's Vault"
+    title = "Tyler's Void"
     subtitle = "No thoughts, head empty."
     owner = ""
     keywords = ""
@@ -75,7 +75,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = ">_ TYLER/NULL"
+      logoText = ">_ DEV/TYLER"
       logoHomeLink = "/"
 
     [languages.en.menu]
