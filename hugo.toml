@@ -1,6 +1,6 @@
 baseURL = 'http://www.teewhy.net/'
 languageCode = 'en-us'
-title = "Tyler's Vault"
+title = "Tyler's Void"
 theme = 'terminal'
 
 paginate = 5
@@ -75,7 +75,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = ">_ TYLER'S VAULT"
+      logoText = ">_ TYLER/NULL"
       logoHomeLink = "/"
 
     [languages.en.menu]
