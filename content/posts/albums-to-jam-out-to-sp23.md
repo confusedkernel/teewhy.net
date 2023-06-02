@@ -12,6 +12,7 @@ showFullContent = false
 readingTime = true
 hideComments = false
 ToC = true
+ToCTitle = "Album List"
 +++
 
 As the final week approaches, I find myself spending more time in a library or a cafe doing work. As a music addict, I wasted quite a lot of time going through my music collection trying to find the type of music that works for me as I study. However, I decided to branch out and discover some new artists that might be my music taste. And this is a list containing these new albums that I found. If you're someone who's into upbeat study music, these can power anyone through the hectic final week.
