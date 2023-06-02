@@ -31,7 +31,7 @@ I first discovered Blanks in 2019, back when he was blowing up for his YouTube s
 
 ## Fever Dream - Cannons (2022)
 
-{{< apple-music src="https://embed.music.apple.com/us/album/nothing-lasts-forever-and-thats-ok-deluxe/1631158475" format="album">}}
+{{< apple-music src="https://embed.music.apple.com/us/album/fever-dream/1609678268" format="album">}}
 
 *Fever Dream* is a sonic tapestry that weaves together elements of alternative rock, electronic music, and dream pop, resulting in a unique and evocative sound. Bearing similarity to Cannons' previous works, this album managed to keep her signature sound while still feeling fresh. The album overall has a hypnotic sound, with heavy reverb and a groove to it. I love coding to this album.
 
@@ -41,7 +41,7 @@ I first discovered Blanks in 2019, back when he was blowing up for his YouTube s
 
 ## Calico - Ryan Beatty (2023)
 
-{{< apple-music src="https://embed.music.apple.com/us/album/nothing-lasts-forever-and-thats-ok-deluxe/1631158475" format="album">}}
+{{< apple-music src="https://embed.music.apple.com/us/album/calico/1676552614" format="album">}}
 
 This is the oddity out of these five albums. This album doesn't feature a fabulous pop production or a punchy bassline, but it's shaping up to become one of my favorite album in 2023. In contrast to other albums on this list, this album is soft. It gives off singer/songwriter vibe with Ryan Beatty's raw vocals drawing you in with emotions. Overall, this album feels like an afternoon trip to your favorite coffee shop, just studying by the window as people walk by.
 
