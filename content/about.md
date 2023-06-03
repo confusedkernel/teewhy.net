@@ -35,4 +35,4 @@ Check out [My curated playlist, 2023](https://bit.ly/3BlS71b)
 - [GitLab](https://gitlab.com/tyleryeh)
 - [Music](https://music.apple.com/profile/tybebored)
 - [Discord](https://discord.com/users/591633476160061441)
-
+- [Matrix](http://gg.gg/teewhy-matrix-org)
