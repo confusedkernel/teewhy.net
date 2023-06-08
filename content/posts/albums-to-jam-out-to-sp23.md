@@ -66,3 +66,9 @@ Continuing the triumph of her last album *What's Your Pleasure* (which is also R
 Better late than never I guess. In 2020, I've listened to "I Want It All" on repeat. I was obsessed with the synth-driven, funky chorus of the track. Little did I know this is an album full of that sound (and feel). If you're someone into indie pop, this album is the lofi, chill vibes of indie pop at its finest. It's upbeat with actually well-written verses. The album also feels somewhat nostalgic, like looking through a summer day in a film camera (iykyk).
 
 **Favorite Track**: Simple Romance, Youuu
+
+---
+
+# Leave A Comment!
+
+{{< chat cactus-comments >}}

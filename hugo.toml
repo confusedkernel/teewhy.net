@@ -73,7 +73,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = ">_ DEV/TYLER"
+      logoText = ">_ NULL"
       logoHomeLink = "/"
 
     [languages.en.menu]
