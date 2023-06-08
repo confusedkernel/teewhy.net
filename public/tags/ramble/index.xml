@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ramble on Tyler&#39;s Vault</title>
+    <title>ramble on Tyler&#39;s Void</title>
     <link>http://www.teewhy.net/tags/ramble/</link>
-    <description>Recent content in ramble on Tyler&#39;s Vault</description>
+    <description>Recent content in ramble on Tyler&#39;s Void</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>© 2023 Tyler Yeh</copyright>
     <lastBuildDate>Mon, 29 May 2023 21:26:25 +0800</lastBuildDate><atom:link href="http://www.teewhy.net/tags/ramble/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -51,6 +51,21 @@ THE BIRDSTRIKE This afternoon I was doing my orienteering assignment in the park
 &lt;p&gt;I think that the most valuable lesson I learned today is that decision-making is especially important during a panic. The art of making a rational decision even if you&amp;rsquo;re panicking on the inside is important. To understand your limits and make decisions accordingly, so that you wouldn&amp;rsquo;t embarrass yourself as much as I did.&lt;/p&gt;
 &lt;p&gt;I also thought about ways I could save the interview, perhaps by starting with ignoring all calls, even if it&amp;rsquo;s an emergency. I don&amp;rsquo;t know how it looked from the interviewer&amp;rsquo;s perspective, but if you&amp;rsquo;re the interviewer and you&amp;rsquo;re reading this, I&amp;rsquo;m sincerely sorry for the trouble I caused. (Disconnecting the call for a whole minute.)&lt;/p&gt;
 &lt;p&gt;Anyhow, I would say that I did my best considering the dire situation I was in (I just got attacked by a random bird.) And I hope that none of you have to go through what I did in an interview.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;leave-a-comment&#34;&gt;Leave a comment!&lt;/h3&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://latest.cactus.chat/cactus.js&#34;&gt;&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://latest.cactus.chat/style.css&#34; type=&#34;text/css&#34;&gt;
+&lt;div id=&#34;comment-section&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+initComments({
+  node: document.getElementById(&#34;comment-section&#34;),
+  defaultHomeserverUrl: &#34;https://matrix.cactus.chat:8448&#34;,
+  serverName: &#34;cactus.chat&#34;,
+  siteName: &#34;&lt;teewhy.net&gt;&#34;,
+  commentSectionId: &#34;cactus-comments&#34;
+})
+&lt;/script&gt;
+
 </content>
     </item>
     
