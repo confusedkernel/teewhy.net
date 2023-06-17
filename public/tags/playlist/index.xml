@@ -106,6 +106,21 @@
 
 &lt;p&gt;Better late than never I guess. In 2020, I&amp;rsquo;ve listened to &amp;ldquo;I Want It All&amp;rdquo; on repeat. I was obsessed with the synth-driven, funky chorus of the track. Little did I know this is an album full of that sound (and feel). If you&amp;rsquo;re someone into indie pop, this album is the lofi, chill vibes of indie pop at its finest. It&amp;rsquo;s upbeat with actually well-written verses. The album also feels somewhat nostalgic, like looking through a summer day in a film camera (iykyk).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Favorite Track&lt;/strong&gt;: Simple Romance, Youuu&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;leave-a-comment&#34;&gt;Leave A Comment!&lt;/h1&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://latest.cactus.chat/cactus.js&#34;&gt;&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://latest.cactus.chat/style.css&#34; type=&#34;text/css&#34;&gt;
+&lt;div id=&#34;comment-section&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+initComments({
+  node: document.getElementById(&#34;comment-section&#34;),
+  defaultHomeserverUrl: &#34;https://matrix.cactus.chat:8448&#34;,
+  serverName: &#34;cactus.chat&#34;,
+  siteName: &#34;&lt;teewhy.net&gt;&#34;,
+  commentSectionId: &#34;cactus-comments&#34;
+})
+&lt;/script&gt;
+
 </content>
     </item>
     
