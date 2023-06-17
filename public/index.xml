@@ -9,6 +9,18 @@
     <copyright>© 2023 Tyler Yeh</copyright>
     <lastBuildDate>Wed, 31 May 2023 00:10:56 +0800</lastBuildDate><atom:link href="http://www.teewhy.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ncurses is Fun</title>
+      <link>http://www.teewhy.net/posts/ncurses-is-fun/</link>
+      <pubDate>Sun, 11 Jun 2023 23:44:34 +0800</pubDate>
+      
+      <guid>http://www.teewhy.net/posts/ncurses-is-fun/</guid>
+      <description>For the computer programming class this semester, I had two main project to do. First, I need to do a final project of Catan with my teammates, and I have to do a bonus project on how to use the Ncurses library.</description>
+      <content>&lt;p&gt;For the computer programming class this semester, I had two main project to do.
+First, I need to do a final project of Catan with my teammates, and I have to do a bonus project on how to use the Ncurses library.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Albums to Jam Out To: Finals Week, Spring 2023</title>
       <link>http://www.teewhy.net/posts/albums-to-jam-out-to-sp23/</link>
       <pubDate>Wed, 31 May 2023 16:24:55 +0800</pubDate>

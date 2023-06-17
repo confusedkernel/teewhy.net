@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comp sci on Tyler&#39;s Void</title>
+    <link>http://www.teewhy.net/categories/comp-sci/</link>
+    <description>Recent content in comp sci on Tyler&#39;s Void</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Tyler Yeh</copyright>
+    <lastBuildDate>Sun, 11 Jun 2023 23:44:34 +0800</lastBuildDate><atom:link href="http://www.teewhy.net/categories/comp-sci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ncurses is Fun</title>
+      <link>http://www.teewhy.net/posts/ncurses-is-fun/</link>
+      <pubDate>Sun, 11 Jun 2023 23:44:34 +0800</pubDate>
+      
+      <guid>http://www.teewhy.net/posts/ncurses-is-fun/</guid>
+      <description>For the computer programming class this semester, I had two main project to do. First, I need to do a final project of Catan with my teammates, and I have to do a bonus project on how to use the Ncurses library.</description>
+      <content>&lt;p&gt;For the computer programming class this semester, I had two main project to do.
+First, I need to do a final project of Catan with my teammates, and I have to do a bonus project on how to use the Ncurses library.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
