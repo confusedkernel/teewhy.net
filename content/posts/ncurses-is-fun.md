@@ -11,6 +11,7 @@ description = "It is also cursed. But fun nonetheless!"
 showFullContent = false
 readingTime = false
 hideComments = false
+draft = true
 +++
 
 For the computer programming class this semester, I had two main project to do.
