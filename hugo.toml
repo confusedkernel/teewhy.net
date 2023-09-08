@@ -55,7 +55,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    copyright = "© 2023 Tyler Yeh"
+    copyright = "© 2023 Tyler's Void"
   [languages.en.params]
     languageName = "English"
     title = "Tyler's Void"

@@ -1,0 +1,19 @@
+#--------------------------------------------------#
+# The following was generated with gitignore.nvim: #
+#--------------------------------------------------#
+# Gitignore for the following technologies: Hugo
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
+
