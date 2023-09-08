@@ -18,9 +18,9 @@ Website is powered by [Hugo](https://gohugo.io/).
 
 **Tyler** /tai·lr/
 
-he/him | 21
+he/him | 🍤
 
-Born in 2002. Code a little and listen to music... like, a lot.
+A 20-something walking disaster. Code a little and listen to music... like, a lot.
 
 Currently an undergraduate studying English and Computer Science
 
