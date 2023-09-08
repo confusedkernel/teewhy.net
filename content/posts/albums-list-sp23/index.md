@@ -1,5 +1,5 @@
 +++
-title = "Albums to Jam Out To: Finals Week, Spring 2023"
+title = "Albums On Loop: Finals Week, Spring 2023"
 date = "2023-05-31T16:24:55+08:00"
 author = "Tyler"
 authorTwitter = "" #do not include @

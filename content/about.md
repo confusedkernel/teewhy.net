@@ -16,11 +16,11 @@ Website is powered by [Hugo](https://gohugo.io/).
 
 # About Me
 
-**Tyler Yeh** /tai·lr y·eh/
+**Tyler** /tai·lr/
 
 he/him | 21
 
-Born in 2002. Music and tech enthusiast.
+Born in 2002. Code a little and listen to music... like, a lot.
 
 Currently an undergraduate studying English and Computer Science
 
