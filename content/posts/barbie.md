@@ -14,4 +14,4 @@ draft = true
 
 # Barbie - An Inquiry Into Imperfections
 
-Even before the trailer had come out, I knew that this "Barbie" wouldn't just be another funny, brainless movie. 
+Even before the trailer had come out, I knew that this "Barbie" wouldn't just be another funny, brainless movie.
