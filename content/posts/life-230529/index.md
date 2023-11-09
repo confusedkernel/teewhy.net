@@ -11,6 +11,7 @@ description = "How to (kind of) mess up a Microsoft interview and save it."
 showFullContent = false
 readingTime = true
 hideComments = false
+draft = true
 color = "" #color from the theme settings
 +++
 I think that fortune and misfortune are always balanced in life. With each occurrence of an unfortunate event, there's bound to be something lucky happening soon. And this is sort of what happened today. As much as today's event traumatized me, I find it funny (educational, even.) So, I decided to post it. (After all, this is what blogs are for, right?)
