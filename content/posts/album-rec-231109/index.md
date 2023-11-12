@@ -42,7 +42,7 @@ Unsurprisingly, *1989 (Taylor's Version)* is one of my most played album of the 
 
 {{< apple-music src="https://embed.music.apple.com/us/album/unreal-unearth/1687653476?l=en-GB" format="album" >}}
 
-Hozier is back. Period. His albums never fail to disappoint, and *Unreal Unearth*. Though some may argue that this album doesn't sound that different from his previous albums, and it's still far from besting his epochal song "Take Me To Church" - it's still a decent album that allows you to have a good time.
+Hozier is back. Period. His albums never fail to disappoint, and *Unreal Unearth* delivers just like his discography. Though some may argue that this album doesn't sound that different from his previous albums, and it's still far from besting his epochal song "Take Me To Church" - it's still a decent album that allows you to have a good time.
 
 **Favorite Tracks**: "De Selby (Part 2)", "All Things End"
 
