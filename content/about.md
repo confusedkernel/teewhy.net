@@ -33,6 +33,7 @@ Check out [My curated playlist, 2023](https://bit.ly/3BlS71b)
 # Contact Me
 - [GitHub](https://github.com/nottyl)
 - [GitLab](https://gitlab.com/tyleryeh)
-- [Music](https://music.apple.com/profile/tybebored)
+- [Apple Music](https://music.apple.com/profile/tybebored)
+- [Spotify](https://open.spotify.com/user/313yxafc6irfflnlk54g4biz6afm?si=aa641ff316bd4b4e)
 - [Discord](https://discord.com/users/591633476160061441)
 - [Matrix](http://gg.gg/teewhy-matrix-org)
