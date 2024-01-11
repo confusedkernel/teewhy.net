@@ -1,7 +1,7 @@
 :root {
     --primary-hue: 200deg;
     font-family: "Roboto Mono", Roboto, monospace;
-    --primary-saturation: 1%;
+    --primary-saturation: 30%;
 }
 
 .content {

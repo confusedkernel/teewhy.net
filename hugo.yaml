@@ -1,7 +1,13 @@
-languageCode: en-us
-title: ">_ Tyler's Void"
+baseURL: "https://teewhy.net"
+title: "Tyler's Void"
 theme: hextra
 
+
+enableRobotsTXT: true
+enableGitInfo: true
+hasCJKLanguage: true
+
+# Languages
 defaultContentLanguage: en
 languages:
   en:
@@ -11,6 +17,7 @@ languages:
     languageName: 繁體中文
     weight: 2
 
+# Markdown parsing
 markup:
   goldmark:
     renderer:
@@ -19,6 +26,9 @@ markup:
   highlight:
     noClasses: false
 
+enableInlineShortcodes: true
+
+# Main menu config
 menu:
   main:
     - name: Portfolio
@@ -33,8 +43,8 @@ menu:
       pageref: /about
       weight: 3
 
-    - name: Contact
-      pageref: /contact
+    - name: Projects
+      pageref: /project
       weight: 4
 
     - name: Search
@@ -47,6 +57,7 @@ menu:
       params:
         icon: github
 
+# Some other settings
 params:
   navbar:
     displayTitle: true
@@ -61,7 +72,7 @@ params:
     displayToggle: true
 
   page:
-    width: wide
+    width: normal
 
   search:
     enable: true
@@ -69,4 +80,9 @@ params:
 
     flexsearch:
       index: title
+
+  blog:
+    list:
+      displayTags: true
+      readingTime: true
 
