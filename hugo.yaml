@@ -1,0 +1,72 @@
+languageCode: en-us
+title: ">_ Tyler's Void"
+theme: hextra
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  zh-tw:
+    languageName: 繁體中文
+    weight: 2
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Portfolio
+      pageref: /portfolio
+      weight: 1
+
+    - name: Blog
+      pageref: /blog
+      weight: 2
+
+    - name: About
+      pageref: /about
+      weight: 3
+
+    - name: Contact
+      pageref: /contact
+      weight: 4
+
+    - name: Search
+      weight: 5
+      params:
+        type: search
+
+    - name: GitHub
+      url: "https://github.com/nottyl"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+
+  theme:
+    default: system
+    displayToggle: true
+
+  page:
+    width: wide
+
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      index: title
+

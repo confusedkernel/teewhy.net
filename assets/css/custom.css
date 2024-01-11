@@ -1,0 +1,13 @@
+:root {
+    --primary-hue: 200deg;
+    font-family: "Roboto Mono", Roboto, monospace;
+    --primary-saturation: 1%;
+}
+
+.content {
+  font-family: "Roboto Mono", Roboto, monospace;
+}
+
+/* .content { */
+/*     font-family: "Roboto Mono", Roboto; */
+/* } */
