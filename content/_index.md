@@ -5,13 +5,13 @@ date: 2024-01-11T13:38:16+08:00
 toc: false
 ---
 
-<div class="mb-6">
-{{< hextra/hero-badge >}}
-  <div class="w-2 h-2 rounded-full bg-primary-400"></div>
-  On Repeat: Stick Season - Noah Kahan
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-</div>
+<!-- <div class="mb-6"> -->
+<!-- {{< hextra/hero-badge >}} -->
+<!--   <div class="w-2 h-2 rounded-full bg-primary-400"></div> -->
+<!--   On Repeat: Stick Season - Noah Kahan -->
+<!--   {{< icon name="arrow-circle-right" attributes="height=14" >}} -->
+<!-- {{< /hextra/hero-badge >}} -->
+<!-- </div> -->
 
 
 <div class="mt-6 mb-6">
