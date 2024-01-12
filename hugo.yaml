@@ -14,9 +14,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  zh-tw:
-    languageName: 繁體中文
-    weight: 2
+  # zh-tw:
+  #   languageName: 繁體中文
+  #   weight: 2
 
 # Markdown parsing
 markup:
