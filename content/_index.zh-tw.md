@@ -17,25 +17,24 @@ draft: false
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-    Hello There!
+    嗨。
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="mb-6">
 {{< hextra/hero-subtitle >}}
   <b>Tyler's Void</b> - No thoughts, head empty.&nbsp;<br class="sm:block hidden" />
-  Occasionally uploading some music, tech, or book stuff.
+  不定期更新音樂、科技、以及書本的文章。
   {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="mb-6">
-{{< hextra/hero-button text="About Me" link="about" >}}
+{{< hextra/hero-button text="關於我" link="about" >}}
 </div>
 
-## Latest Posts
+## 最新文章
 
 {{< cards >}}
- <!--    {{< card link="/blog/top-5-2023-album" title="My Top 5 2023 Album" image="post-default-bg.jpg" subtitle="January 12, 2024" >}} -->
-    {{< card link="/blog/five-neovim-plugins" title="Neovim Noob and His Plugins" image="post-default-bg.jpg" subtitle="September 6, 2023" >}}
+    {{< card link="/blog/five-neovim-plugins" title="Neovim Noob and His Plugins" image="" subtitle="September 6, 2023" >}}
 {{< /cards >}}
 
