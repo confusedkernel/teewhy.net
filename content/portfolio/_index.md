@@ -7,5 +7,5 @@ draft: true
 ---
 
 {{< callout type="info" >}}
-  Coming soon!
+  Coming soon! This website is still in development
 {{< /callout >}}

@@ -43,8 +43,8 @@ menu:
       pageref: /about
       weight: 3
 
-    - name: Projects
-      pageref: /project
+    - name: Vault
+      pageref: /vault
       weight: 4
 
     - name: Search
