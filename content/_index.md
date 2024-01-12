@@ -1,5 +1,5 @@
 ---
-title: "Tyler's Void"
+title:
 layout: hextra-home
 date: 2024-01-11T13:38:16+08:00
 toc: false
@@ -29,4 +29,9 @@ toc: false
 {{< hextra/hero-button text="About Me" link="about" >}}
 </div>
 
+## Latest Posts
+
+{{< cards >}}
+    {{< card link="/blog/five-neovim-plugins" title="Neovim Noob and His Plugins" image="post-default-bg.jpg" subtitle="September 6, 2023" >}}
+{{< /cards >}}
 

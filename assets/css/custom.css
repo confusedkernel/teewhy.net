@@ -1,6 +1,11 @@
 :root {
-    --primary-hue: 200deg;
+    --primary-hue: 200;
     font-family: "Roboto Mono", Roboto, monospace;
+    --primary-saturation: 30%;
+}
+
+.dark {
+    --primary-hue: 204;
     --primary-saturation: 30%;
 }
 
