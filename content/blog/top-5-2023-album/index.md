@@ -7,27 +7,32 @@ tags:
 authors:
     - name: Tyler
 date: 2024-01-12T20:08:35+08:00
-draft: true
+draft: false
 ---
 
-For me, 2023 was a year of branching out and finding new sounds. With most of my favorite artists on hiatus (or, on an unprecedentedly successful world tour), I found myself going through playlists and discovering new artists that I would've never discovered. Here are some 2023 albums that I've enjoyed:
+For me, 2023 was a year of branching out and finding new sounds. With most of my favorite artists on hiatus (or, on an unprecedentedly successful world tour), I found myself going through playlists and discovering new artists that I would've never discovered.
 
-## 5. Bloom Mountain - Hazlett
+## Stick Season - Noah Kahan
 
-Earlier this year, Noah Kahan's *Stick Season* 
+I've known Noah Kahan since my friend recommended his songs to me in high school, but my music taste back then was strictly pop music, so I never quite appreciated his songs. However, as "Dial Drunk" went viral on TikTok this summer, I decided to give his discography another try.
 
-## 4. GUTS - Olivia Rodrigo
+**Highlight Tracks**: "The View Between Villages", "Orange Juice"
 
-## 3. Stick Season - Noah Kahan
+## Bloom Mountain - Hazlett
 
-## 2. Messy - Olivia Dean
+{{< apple-music src="https://embed.music.apple.com/tw/album/bloom-mountain/1655223528?l=en-GB" format="album">}}
 
-## 1. Desire, I Want to Turn Into You - Caroline Polachek
+I discovered this album after my Noah Kahan phase this summer. As a singer/songwriter album, *Bloom Mountain* offers an easy listening experience.
 
-## +. Honorable Mentions
+**Highlight Tracks**: "Everybody Hates Me", "My Skin"
 
-### Dead Club City - Nothing But Thieves
+## Desire, I Want To Turn Into You - Caroline Polachek
 
-### Unreal Unearth - Hozier
+## Bewitched - Laufey
 
-### 4TH WALL - Ruel
+## Piggy - Peter McPoland
+
+## Leave a comment!
+
+{{< chat 20240112001 >}}
+

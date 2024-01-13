@@ -66,5 +66,6 @@ This is a very niche plugin, but it's incredibly useful in some cases. For me, i
 
 This plugin allows you to generate a .gitignore file in seconds, just by choosing different categories that you want to have ignored. For example, the infamous .DS_Store file in macOS, just select macOS in your gitignore.nvim and it'll generate .gitignore file for that. With this, I no longer need to type out every single file across different categories that I want to exclude from git. It is honestly a life-saver.
 
+## Leave a comment!
 
-
+{{< chat 20230906001 >}}

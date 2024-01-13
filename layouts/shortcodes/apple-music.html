@@ -1,0 +1,14 @@
+{{/* The Apple Music iframe shortcode */}}
+{{ $src := .Get "src" }}
+{{ $format := .Get "format" | default "" }}
+{{ $allow := "" }}
+{{ $sandbox := "" }}
+
+{{ if eq $format "album" }}
+    {{ $allow = "autoplay *; encrypted-media *; fullscreen *; clipboard-write" }}
+    {{ $sandbox = "allow-same-origin allow-scripts allow-storage-access-by-user-activation" }}
+{{ end }}
+
+<div class="mt-6 mb-6">
+<iframe src="{{ $src }}" allow="{{ $allow }}" frameborder="0" height="450" style="width:100%;max-width:800px;overflow:hidden;border-radius:10px;" sandbox="{{ $sandbox }}"></iframe>
+</div>

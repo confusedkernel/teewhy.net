@@ -1,0 +1,15 @@
+
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+<div class="mt-6 mb-6">
+<div id="comment-section"></div>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "<teewhy.net>",
+  commentSectionId: "{{ index .Params 0 }}"
+})
+</script>
+</div>

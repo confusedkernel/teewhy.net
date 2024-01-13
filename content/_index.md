@@ -35,7 +35,7 @@ draft: false
 ## Latest Posts
 
 {{< cards >}}
- <!--    {{< card link="/blog/top-5-2023-album" title="My Top 5 2023 Album" image="post-default-bg.jpg" subtitle="January 12, 2024" >}} -->
+    {{< card link="/blog/top-5-2023-album" title="My Top 5 2023 Album" image="post-default-bg.jpg" subtitle="January 12, 2024" >}}
     {{< card link="/blog/five-neovim-plugins" title="Neovim Noob and His Plugins" image="post-default-bg.jpg" subtitle="September 6, 2023" >}}
 {{< /cards >}}
 
