@@ -7,7 +7,7 @@ tags:
 authors:
     - name: Tyler
 date: 2024-01-12T20:08:35+08:00
-draft: false
+draft: true
 ---
 
 For me, 2023 was a year of branching out and finding new sounds. With most of my favorite artists on hiatus (or, on an unprecedentedly successful world tour), I found myself going through playlists and discovering new artists that I would've never discovered. Here are some 2023 albums that I've enjoyed:
