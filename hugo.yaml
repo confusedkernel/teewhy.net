@@ -65,6 +65,7 @@ menu:
 # Some other settings
 params:
   description: No thoughts, head empty.
+  displayUpdatedDate: true
 
   navbar:
     displayTitle: true

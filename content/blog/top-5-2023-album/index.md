@@ -7,17 +7,27 @@ tags:
 authors:
     - name: Tyler
 date: 2024-01-12T20:08:35+08:00
-draft: true
+draft: false
 ---
 
-## Bloom Mountain - Hazlett
+For me, 2023 was a year of branching out and finding new sounds. With most of my favorite artists on hiatus (or, on an unprecedentedly successful world tour), I found myself going through playlists and discovering new artists that I would've never discovered. Here are some 2023 albums that I've enjoyed:
 
-| Insert Apple Music link
+## 5. Bloom Mountain - Hazlett
 
-## 4TH WALL - Ruel
+Earlier this year, Noah Kahan's *Stick Season* 
 
-## Unreal Unearth - Hozier
+## 4. GUTS - Olivia Rodrigo
 
-## Messy - Olivia Dean
+## 3. Stick Season - Noah Kahan
 
-## Desire, I Want to Turn Into You - Caroline Polachek
+## 2. Messy - Olivia Dean
+
+## 1. Desire, I Want to Turn Into You - Caroline Polachek
+
+## +. Honorable Mentions
+
+### Dead Club City - Nothing But Thieves
+
+### Unreal Unearth - Hozier
+
+### 4TH WALL - Ruel
