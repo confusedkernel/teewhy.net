@@ -1,9 +1,13 @@
 ---
 title: 'My Top 5 2023 Albums'
+cascade:
+    type: blog
 description: A recap of my favorite albums from 2023.
 tags:
-    - music
+    - opinion
     - ranking
+categories:
+    - music
 authors:
     - name: Tyler
 date: 2024-01-12T20:08:35+08:00
