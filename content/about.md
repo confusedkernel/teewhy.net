@@ -38,7 +38,7 @@ Check out [My curated playlist, 2024](https://bit.ly/3BlS71b)
 {{< cards >}}
   {{< card link="https://github.com/nottyl" title="GitHub" icon="github" >}}
   {{< card link="https://music.apple.com/profile/tybebored" title="Apple Music" icon="music-note" >}}
-  {{< card link="https://discord.com/users/591633476160061441" title="Discord" icon="chat" >}}
+  {{< card link="https://discord.com/users/591633476160061441" title="Discord" icon="discord" >}}
   {{< card link="http://gg.gg/teewhy-matrix-org" title="Matrix" icon="chat-alt" >}}
 {{< /cards >}}
 
