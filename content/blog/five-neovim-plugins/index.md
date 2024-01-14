@@ -12,6 +12,7 @@ authors:
 - name: Tyler
 description: Five neovim plugins I can't live without.
 draft: false
+readingTime: true
 ---
 
 About six months ago, [Léana](https://earth2077.fr) made me switch from JetBrains IDEs to Neovim. As one may expect, it wasn't an easy transition from a full-blown IDE to a highly customizable text editor. It took me a long time to get used to working in the Neovim environment (and configure it to my liking as well), but once you get the hang of it - it's like walking on air. By using a wide range of keyboard shortcuts and the clever community plugins - it'll increase your productivity by tenfold.
