@@ -68,4 +68,4 @@ This plugin allows you to generate a .gitignore file in seconds, just by choosin
 
 ## Leave a comment!
 
-{{< chat 20230906001 >}}
+{{< chat cactus-comments >}}
