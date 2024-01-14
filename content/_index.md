@@ -7,9 +7,9 @@ draft: false
 ---
 
 <div class="mb-6">
-{{< hextra/hero-badge link="https://www.youtube.com/watch?v=iWG6apzIWAk">}}
+{{< hextra/hero-badge link="https://www.youtube.com/watch?v=V91s8MqFNFw&pp=ygUXbGFkaWVzIHJvb20gb2xpdmlhIGRlYW4%3D">}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
-  On Repeat: Stick Season - Noah Kahan
+  On Repeat: Ladies Room - Olivia Dean
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>
