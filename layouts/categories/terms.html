@@ -8,7 +8,7 @@
         <div class="mb-6"></div>
         <p class="mb-12 text-center text-md text-gray-500 dark:text-gray-400">
             {{- $numberOfCats := len .Site.Taxonomies.categories }}
-            {{ $numberOfCats}} categories in total.
+            {{ $numberOfCats}} categorie{{ if (ne $numberOfCats 1) }}s{{ end }} in total.
         </p>
 
         {{- $type := .Type }}
@@ -18,7 +18,7 @@
         {{- with site.GetPage (printf "/%s/%s" $type $name) }}
         <div class="mb-4">
               <li><a style="color: inherit; text-decoration: none;" class="block font-semibold mt-1.5 text-1.5xl" href="{{ .RelPermalink }}">
-                      {{ .Name | humanize }} ({{ $count }} posts)</a></li>
+                      {{ .Name | humanize }} ({{ $count }} post{{ if (ne $count 1) }}s{{ end }})</a></li>
             <p class="opacity-80 mt-1 leading-10">
               <a class="text-[color: hsl(200, 30%, 50%)] underline underline-offset-2 decoration-from-font" href="{{ .RelPermalink }}">
                 Show posts →

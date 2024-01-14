@@ -87,7 +87,7 @@ params:
     type: flexsearch
 
     flexsearch:
-      index: title
+      index: content
 
   blog:
     list:

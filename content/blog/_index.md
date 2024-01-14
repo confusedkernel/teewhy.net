@@ -1,5 +1,6 @@
 ---
 title: 'Blog'
+excludeSearch: true
 ---
 
 <div style="text-align: center; margin-top: 1em;">
@@ -8,3 +9,5 @@ title: 'Blog'
   {{< icon name="rss" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>
+
+

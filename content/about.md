@@ -34,7 +34,7 @@ Talk to me about all things music or tech and I'll be really happy.
 Check out [My curated playlist, 2024](https://bit.ly/3BlS71b)
 
 
-## Contact Me
+## Links
 {{< cards >}}
   {{< card link="https://github.com/nottyl" title="GitHub" icon="github" >}}
   {{< card link="https://music.apple.com/profile/tybebored" title="Apple Music" icon="music-note" >}}
