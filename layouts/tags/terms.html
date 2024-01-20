@@ -8,7 +8,7 @@
         <div class="mb-6"></div>
         <p class="mb-12 text-center text-md text-gray-500 dark:text-gray-400">
             {{- $numberOfTags := len .Site.Taxonomies.tags }}
-            {{ $numberOfTags}} tag{{ if (ne $numberOfTags 1) }}s{{ end }} in total.
+            <a href="/blog"><u>← Back to blog</u></a> | {{ $numberOfTags}} tag{{ if (ne $numberOfTags 1) }}s{{ end }} in total.
         </p>
 
         {{- $type := .Type }}

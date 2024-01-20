@@ -8,7 +8,7 @@
         <div class="mb-6"></div>
         <p class="mb-12 text-center text-md text-gray-500 dark:text-gray-400">
             {{- $numberOfCats := len .Site.Taxonomies.categories }}
-            {{ $numberOfCats}} categorie{{ if (ne $numberOfCats 1) }}s{{ end }} in total.
+            <a href="/blog"><u>← Back to blog</u></a> | {{ $numberOfCats}} categorie{{ if (ne $numberOfCats 1) }}s{{ end }} in total.
         </p>
 
         {{- $type := .Type }}
