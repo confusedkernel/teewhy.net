@@ -4,14 +4,15 @@ cascade:
     type: blog
 description: A recap of my favorite albums from 2023.
 tags:
-    - opinion
     - ranking
 categories:
     - music
 authors:
     - name: Tyler
+
 date: 2024-01-12T20:08:35+08:00
 draft: false
+readingTime: true
 ---
 
 For me, 2023 was a year of branching out and finding new sounds. With most of my favorite artists on hiatus (or, on an unprecedentedly successful world tour), I found myself going through playlists and discovering new artists that I would've never discovered. Although it was extremely difficult to find a middle ground between my emotional bias to an album and the objective quality of it, I compiled a list of five albums that I loved in 2023. Here is my attempt at ranking them:

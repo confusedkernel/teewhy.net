@@ -2,8 +2,11 @@
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 description:
 authors:
-    name:
+- name:
 tags:
+-
+categories:
+-
 date: {{ .Date }}
 draft: true
 ---
