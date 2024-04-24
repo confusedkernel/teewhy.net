@@ -8,13 +8,13 @@ draft: false
 layout: wide
 ---
 
-<div class="mt-4"></div>
+<div class="hx-mt-4"></div>
 
-<p class="mb-12 text-center text-lg text-gray-500 dark:text-gray-400">
+<p class="hx-mt-4 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
     My tech-related projects.
 </p>
 
-<div class="mb-6"></div>
+<div class="hx-mb-12"></div>
 
 <!-- card screenshot size: 125*35 -->
 
@@ -24,8 +24,8 @@ layout: wide
     subtitle="Java | 2022"
     link="https://github.com/nottyl/EarwormsBot"
     image="/images/port/earworm.png"
-    imageClass="w-[180%] sm:w-[120%] dark:opacity-90"
-    class="aspect-auto md:aspect-[1.1/1] max-md:min-h-[340px]"
+    imageClass="hx-w-[180%] sm:hx-w-[120%] dark:hx-opacity-90"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(90,125,147,0.55),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
@@ -33,8 +33,8 @@ layout: wide
     subtitle="C, Ncurses | 2023"
     link="https://github.com/nottyl/Catan"
     image="/images/port/catan-dark.png"
-    imageClass="w-[180%] sm:w-[120%] dark:opacity-90"
-    class="aspect-auto md:aspect-[1.1/1] max-md:min-h-[340px]"
+    imageClass="hx-w-[180%] sm:hx-w-[120%] dark:hx-opacity-90"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(90,125,147,0.55),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}

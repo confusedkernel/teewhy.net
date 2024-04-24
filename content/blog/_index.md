@@ -1,6 +1,6 @@
 ---
 title: 'Blog'
-excludeSearch: true
+layout: normal
 ---
 
 <div style="text-align: center; margin-top: 1em;">

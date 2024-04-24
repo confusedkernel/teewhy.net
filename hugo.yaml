@@ -70,10 +70,13 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+    width: wide
 
   footer:
+    enable: true
     displayCopyright: true
     displayPoweredBy: true
+    width: normal
 
   theme:
     default: system
@@ -93,4 +96,7 @@ params:
     list:
       displayTags: true
       readingTime: true
+      sortBy: date
+      sortOrder: desc
+
 

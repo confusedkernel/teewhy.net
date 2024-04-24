@@ -9,6 +9,6 @@
     {{ $sandbox = "allow-same-origin allow-scripts allow-storage-access-by-user-activation" }}
 {{ end }}
 
-<div class="mt-6 mb-6">
+<div class="hx-mt-6 hx-mb-6">
 <iframe src="{{ $src }}" allow="{{ $allow }}" frameborder="0" height="450" style="width:100%;max-width:800px;overflow:hidden;border-radius:10px;" sandbox="{{ $sandbox }}"></iframe>
 </div>

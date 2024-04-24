@@ -1,12 +1,12 @@
 {{ define "main" }}
-  <div class="mx-auto flex {{ partial `utils/page-width` . }}">
+  <div class="hx-mx-auto hx-flex {{ partial `utils/page-width` . }}">
     {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
-    <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-      <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
-        <br class="mt-1.5 text-sm" />
-        <h1 class="text-center mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">#{{ .Title }}</h1>
-        <div class="mb-6"></div>
-        <p class="mb-12 text-center text-md text-gray-500 dark:text-gray-400">
+    <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
+        <br class="hx-mt-1.5 hx-text-sm" />
+        <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">#{{ .Title }}</h1>
+        <div class="hx-mb-6"></div>
+        <p class="hx-mb-12 hx-text-center hx-text-md hx-text-gray-500 dark:hx-text-gray-400">
             {{- $numberOfTags := len .Site.Taxonomies.tags }}
             <a href="/blog"><u>← Back to blog</u></a> | {{ $numberOfTags}} tag{{ if (ne $numberOfTags 1) }}s{{ end }} in total.
         </p>
@@ -16,11 +16,11 @@
         {{- $name := .Name }}
         {{- $count := .Count }}
         {{- with site.GetPage (printf "/%s/%s" $type $name) }}
-        <div class="mb-4">
-              <li><a style="color: inherit; text-decoration: none;" class="block font-semibold mt-1.5 text-1.5xl" href="{{ .RelPermalink }}">
+        <div class="hx-mb-4">
+              <li><a style="color: inherit; text-decoration: none;" class="hx-block hx-font-semibold hx-mt-1.5 hx-text-1.5xl" href="{{ .RelPermalink }}">
                       #{{ .Name }} ({{ $count }} post{{ if (ne $count 1) }}s{{ end }})</a></li>
-            <p class="opacity-80 mt-1 leading-10">
-              <a class="text-[color: hsl(200, 30%, 50%)] underline underline-offset-2 decoration-from-font" href="{{ .RelPermalink }}">
+            <p class="hx-opacity-80 hx-mt-1 hx-leading-10">
+              <a class="hx-text-[color: hsl(200, 30%, 50%)] hx-underline hx-underline-offset-2 hx-decoration-from-font" href="{{ .RelPermalink }}">
                 Show posts →
               </a>
             </p>
@@ -29,7 +29,7 @@
         {{- end }}
       </main>
     </article>
-    <div class="max-xl:hidden h-0 w-64 shrink-0"></div>
+    <div class="max-xl:hx-hidden hx-h-0 hx-w-64 hx-shrink-0"></div>
 
   </div>
   {{ end }}
