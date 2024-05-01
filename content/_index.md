@@ -37,6 +37,7 @@ draft: false
 ## Latest Posts
 
 {{< cards >}}
+    {{< card link="/blog/red-black-tree" title="Red-Black Tree" image="/images/index/post-default-bg.jpg" subtitle="March 27, 2024" >}}
     {{< card link="/blog/top-5-2023-album" title="My Top 5 2023 Albums" image="/images/index/post-default-bg.jpg" subtitle="January 12, 2024" >}}
     {{< card link="/blog/five-neovim-plugins" title="Neovim Noob and His Plugins" image="/images/index/post-default-bg.jpg" subtitle="September 6, 2023" >}}
 {{< /cards >}}
