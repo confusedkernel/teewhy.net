@@ -9,9 +9,9 @@ toc: false
 
 > **Tyler's Void** - No thoughts, head empty.
 
-Hey! Welcome to my personal blog. I initially started this website as some sort of portfolio, but now I just write whatever I want.
+Hey, thanks for stopping by! This is my personal blog. I initially started this website as a portfolio, but now it's a capsule of everything I love. I write about tech, music, and even books every once in a while.
 
-The "Void" name is inspired by "[Janet's Void](https://thegoodplace.fandom.com/wiki/The_Void)" from my favorite show *The Good Place*, and also because sometimes I feel like screaming into the void when I post here.
+The "Void" name is inspired by "[Janet's Void](https://thegoodplace.fandom.com/wiki/The_Void)" from my favorite show *The Good Place*. Also... Sometimes I feel like screaming into the void when I post here, so there's that.
 
 While you're here, you might also want to check out my friend Léana's blog [Earth 2077](https://earth2077.fr) :)
 
