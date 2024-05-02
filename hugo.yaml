@@ -4,7 +4,7 @@ subtitle: "No thoughts, head empty."
 theme: hextra
 
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 enableGitInfo: true
 hasCJKLanguage: true
 
