@@ -10,7 +10,7 @@ draft: false
 <div class="hx-mt-4"></div>
 
 <p class="hx-mb-12 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
-    Welcome to Swiftology, a new column where I share the <i>soliloquies Taylor Swift will never see</i>.
+    Welcome to Swiftology, a new column where I <i>perform soliloquies Taylor Swift will never see.</i><br>
 </p>
 
 {{< callout type="info" >}}
