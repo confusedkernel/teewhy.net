@@ -5,9 +5,10 @@ authors:
 - name: 'Tyler'
 tags:
 - opinion
+- swiftology
 categories:
 - literature
-date: 2024-04-29T15:43:16+08:00
+date: 2024-05-19T15:43:16+08:00
 draft: true
 ToC: false
 ---

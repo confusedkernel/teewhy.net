@@ -42,14 +42,14 @@ menu:
       pageref: /blog
       weight: 2
 
+    - identifier: swiftology
+      name: Swiftology
+      pageref: /swiftology
+      weight: 3
+
     - identifier: about
       name: About
       pageref: /about
-      weight: 3
-
-    - identifier: vault
-      name: Vault
-      pageref: /vault
       weight: 4
 
     - name: Search
