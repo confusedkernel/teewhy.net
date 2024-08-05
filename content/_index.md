@@ -7,9 +7,9 @@ draft: false
 ---
 
 <div class="hx-mb-6">
-{{< hextra/hero-badge link="https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv?si=80767cdce52e497c">}}
+{{< hextra/hero-badge link="https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS?si=2e7f429576a84e40">}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  On Repeat: Fortnight - Taylor Swift
+  On Repeat: Sun Bleached Flies - Ethel Cain
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>
@@ -24,7 +24,7 @@ draft: false
 <div class="hx-mb-6">
 {{< hextra/hero-subtitle >}}
   <b>Tyler's Void</b> - No thoughts, head empty.&nbsp;<br class="sm:block hidden" />
-  Occasionally uploading some music, tech, or book stuff.
+  Occasionally writing about things I like and putting them here :)
   {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -37,9 +37,9 @@ draft: false
 ## Latest Blogs
 
 {{< cards >}}
+    {{< card link="/blog/summer-playlist-2024" title="Summer Soundwaves: 2024" image="/images/index/post-default-bg.jpg" subtitle="August 1, 2024" >}}
     {{< card link="/blog/red-black-tree" title="Red-Black Tree" image="/images/index/post-default-bg.jpg" subtitle="March 27, 2024" >}}
     {{< card link="/blog/top-5-2023-album" title="My Top 5 2023 Albums" image="/images/index/post-default-bg.jpg" subtitle="January 12, 2024" >}}
-    {{< card link="/blog/five-neovim-plugins" title="Neovim Noob and His Plugins" image="/images/index/post-default-bg.jpg" subtitle="September 6, 2023" >}}
 {{< /cards >}}
 </div>
 
