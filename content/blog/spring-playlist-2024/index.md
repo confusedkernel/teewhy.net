@@ -12,7 +12,7 @@ draft: false
 ToC: true
 ---
 
-Spring is delicate, yet ruthless at the same time. It's a montage of soft sunlight, clear skies, fresh flowers, and the smell of grass after rain. Whether it's the quiet ambiance of a café study session or the leisurely charm of an afternoon picnic, these five songs have etched themselves into the soundtrack of my season.
+Spring is delicate, yet ruthless at the same time. It's a montage of soft sunlight, clear skies, fresh flowers, and the smell of grass after rain. Whether it's the quiet ambiance of a café study session or the charm of an afternoon picnic, these five songs have etched themselves into my perception of Spring.
 
 ## Would That I - Hozier
 
@@ -30,7 +30,7 @@ Spring is delicate, yet ruthless at the same time. It's a montage of soft sunlig
 
 > "Your hair still stuck in my bedsheets / Your scent sweet like tangerine / Doing what I can do to come clean / Addicted to you and your misery"
 
-{{< apple-music src="https://embed.music.apple.com/album/tangerine/1687696534?i=1687696535&l=en-GB" format="single">}}
+{{< apple-music src="https://embed.music.apple.com/album/tangerine/1741596227?i=1741596710&l=en-GB" format="single">}}
 
 ## Slut! - Taylor Swift
 
