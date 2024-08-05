@@ -42,23 +42,23 @@ menu:
       pageref: /blog
       weight: 2
 
-    - identifier: swiftology
-      name: Swiftology
-      pageref: /swiftology
-      weight: 3
+    # - identifier: swiftology
+    #   name: Swiftology
+    #   pageref: /swiftology
+    #   weight: 3
 
     - identifier: about
       name: About
       pageref: /about
-      weight: 4
+      weight: 3
 
     - name: Search
-      weight: 5
+      weight: 4
       params:
         type: search
 
     - name: GitHub
-      url: "https://github.com/nottyl"
+      url: "https://github.com/confusedkernel"
       params:
         icon: github
 

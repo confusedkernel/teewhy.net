@@ -36,7 +36,7 @@ Check out [My curated playlist, 2024](https://bit.ly/3BlS71b)
 
 ## Links
 {{< cards >}}
-  {{< card link="https://github.com/nottyl" title="GitHub" icon="github" >}}
+  {{< card link="https://github.com/confusedkernel" title="GitHub" icon="github" >}}
   {{< card link="mailto:tylerlcyeh@gmail.com" title="Mail" icon="mail">}}
   {{< card link="https://open.spotify.com/user/313yxafc6irfflnlk54g4biz6afm?si=7a45a6f0a68c4e36" title="Spotify" icon="spotify" >}}
   {{< card link="https://music.apple.com/profile/tybebored" title="Apple Music" icon="music-note" >}}
