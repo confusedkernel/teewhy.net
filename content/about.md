@@ -9,7 +9,7 @@ toc: false
 
 > **Tyler's Void** - No thoughts, head empty.
 
-Hey, thanks for stopping by! This is my personal blog. I initially started this website as a portfolio, but now it's a capsule of everything I love. I write about tech, music, and even books every once in a while.
+Hey, thanks for stopping by! This is my personal blog. I initially started this website as a portfolio, but since then it has become a capsule of everything I love. I write about coding, music, and even books or tvs whenever I feel like I have something to say.
 
 The "Void" name is inspired by "[Janet's Void](https://thegoodplace.fandom.com/wiki/The_Void)" from my favorite show *The Good Place*. Also... Sometimes I feel like screaming into the void when I post here, so there's that.
 
