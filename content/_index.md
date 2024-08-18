@@ -37,9 +37,9 @@ draft: false
 ## Latest Blogs
 
 {{< cards >}}
+    {{< card link="/blog/grief-in-tv-shows" title="Grief Through the Lens of Television" image="/images/index/post-default-bg.jpg" subtitle="August 16, 2024" >}}
     {{< card link="/blog/summer-playlist-2024" title="Summer Soundwaves: 2024" image="/images/index/post-default-bg.jpg" subtitle="August 1, 2024" >}}
     {{< card link="/blog/red-black-tree" title="Red-Black Tree" image="/images/index/post-default-bg.jpg" subtitle="March 27, 2024" >}}
-    {{< card link="/blog/top-5-2023-album" title="My Top 5 2023 Albums" image="/images/index/post-default-bg.jpg" subtitle="January 12, 2024" >}}
 {{< /cards >}}
 </div>
 
