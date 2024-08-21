@@ -15,7 +15,7 @@
             {{- if site.Params.blog.list.displayTags -}}
               {{ with .Params.tags }}
                 <p class="hx-opacity-50 hx-text-sm hx-leading-7">
-                  {{- range . }}<a class="hx-inline-block hx-mr-2" href="{{ (urlize (printf " tags/%s/" . )) | absLangURL }}">#{{ . }}</a>{{ end -}}
+                  {{- range . }}<a class="hx-inline-block hx-mr-2" href="{{ anchorize . | printf "tags/%s/" | absLangURL }}">#{{ . }}</a>{{ end -}}
                 </p>
               {{ end -}}
             {{- end -}}
@@ -28,7 +28,7 @@
             <p class="hx-opacity-50 hx-text-sm hx-mt-4 hx-leading-7">
             {{ partial "utils/format-date" .Date }} | 
             {{ with .Params.categories }}
-                {{- range . }}<a class=" hx-font-semibold hx-mr-2" href="{{ (urlize (printf " categories/%s/" . )) | absLangURL }}">{{ . | humanize }}</a>{{ end -}}
+                {{- range . }}<a class=" hx-font-semibold hx-mr-2" href="{{ anchorize . | printf "categories/%s" | absLangURL }}">{{ . | humanize }}</a>{{ end -}}
               {{ end -}}
             </p>
           </div>
