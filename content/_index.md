@@ -7,9 +7,9 @@ draft: false
 ---
 
 <div class="hx-mb-6">
-{{< hextra/hero-badge link="https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS?si=2e7f429576a84e40">}}
+{{< hextra/hero-badge link="https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ?si=206e871ca20b4583">}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  On Repeat: Sun Bleached Flies - Ethel Cain
+  On Repeat: The Kill - Maggie Rogers
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>

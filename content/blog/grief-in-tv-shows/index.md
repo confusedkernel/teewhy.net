@@ -76,7 +76,7 @@ I kept thinking back to the speech the Priest gave in the final moments of *Flea
 
 > “Love is awful. It’s awful. It’s painful. It’s frightening. It takes strength to know what’s right... Being a romantic takes a hell of a lot of hope. I think what they mean is, when you find somebody that you love, it feels like hope.”
 
-Once we understand grief as a form of love, what remains is hope. The connections we make is bound to be painful, whether we like it or not — but they are all we’ve got, they are all we live for. After all, that’s just what the human experience is, isn’t it? We're born to love, to lose, and to learn. The process will undeniably be painful, but it is this pain that underscores the depth of our connections. Time after time, we choose to embrace these bonds for the hope of it all. It is this hope that keeps us going, allowing us to dive headfirst into relationships despite the heartache. In the end, it is this swirl of love and loss that shapes our lives and gives them meaning.
+Once we understand grief as a form of love, what remains is hope. The connections we make is bound to be painful, whether we like it or not — but they are all we’ve got, they are all we live for. After all, that’s just what the human experience is, isn’t it? We're born to love, to lose, and to learn. The process will undoubtly be painful, but it is this pain that underscores the depth of our connections. Time after time, we choose to embrace these bonds for the hope of it all. It is this hope that keeps us going, allowing us to dive headfirst into relationships despite the heartache - because it is this swirl of love and loss that shapes our lives and gives them meaning.
 
 ## Leave A Comment!
 

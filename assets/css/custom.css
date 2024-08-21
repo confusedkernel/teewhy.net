@@ -1,24 +1,18 @@
 /* @font-face { */
-/*     font-family: "SF Mono"; */
-/*     font-style: normal; */
-/*     src: url('/fonts/SF-Mono-Regular.otf') format('opentype'); */
-/* } */
-/**/
-/* @font-face { */
-/*     font-family: "SF Mono"; */
+/*     font-family: "Space Mono"; */
 /*     font-style: italic; */
-/*     src: url('/fonts/SF-Mono-Italic.otf') format('opentype'); */
+/*     src: url('/fonts/SpaceMono-Italic.ttf') format('truetype'); */
 /* } */
 /**/
 /* @font-face { */
-/*     font-family: "SF Mono" */
+/*     font-family: "Space Mono" */
 /*     font-style: bold; */
-/*     src: url('/fonts/SF-Mono-Bold.otf') format('opentype'); */
+/*     src: url('/fonts/SpaceMono-Bold.otf') format('opentype'); */
 /* } */
 
 :root {
     --primary-hue: 200;
-    font-family: "SF Mono", Roboto Mono, monospace;
+    font-family: Roboto Mono, monospace;
     --primary-saturation: 30%;
 
     .highlight {
