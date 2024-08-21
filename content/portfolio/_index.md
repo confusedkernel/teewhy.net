@@ -23,7 +23,7 @@ layout: wide
     title="center-stage.nvim"
     subtitle="Lua | 2024"
     link="https://github.com/nottyl/center-stage.nvim"
-    image="/images/port/cc-dark.png"
+    image="/images/port/cc.png"
     imageClass="hx-w-[180%] sm:hx-w-[120%] dark:hx-opacity-90"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(90,125,147,0.55),hsla(0,0%,100%,0));"
