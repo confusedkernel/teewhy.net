@@ -5,6 +5,7 @@ authors:
 - name: Tyler
 tags:
 - tv
+- opinion
 categories:
 - TV & Film
 date: 2024-08-16T14:54:34+08:00
