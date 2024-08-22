@@ -1,35 +1,39 @@
 {{ define "main" }}
-  <div class="hx-mx-auto hx-flex {{ partial `utils/page-width` . }}">
+<div class="hx-mx-auto hx-flex {{ partial `utils/page-width` . }}">
     {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
-    <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-      <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
-        <br class="hx-mt-1.5 hx-text-sm" />
-        <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ .Title }}</h1>
-        <div class="hx-mb-6"></div>
-        <p class="hx-mb-12 hx-text-center hx-text-md hx-text-gray-500 dark:hx-text-gray-400">
-            {{- $numberOfCats := len .Site.Taxonomies.categories }}
-            <a href="/blog"><u>← Back to blog</u></a> | {{ $numberOfCats}} categorie{{ if (ne $numberOfCats 1) }}s{{ end }} in total.
-        </p>
-
-        {{- $type := .Type }}
-        {{- range $key, $value := .Data.Terms.Alphabetical }}
-        {{- $name := .Name }}
-        {{- $count := .Count }}
-        {{- with site.GetPage (printf "/%s/%s" $type $name) }}
-        <div class="hx-mb-4">
-              <li><a style="color: inherit; text-decoration: none;" class="hx-block hx-font-semibold hx-mt-1.5 hx-text-1.5xl" href="{{ .RelPermalink }}">
-                      {{ .Name | humanize }} ({{ $count }} post{{ if (ne $count 1) }}s{{ end }})</a></li>
-            <p class="hx-opacity-80 hx-mt-1 hx-leading-10">
-              <a class="hx-text-[color: hsl(200, 30%, 50%)] hx-underline hx-underline-offset-2 hx-decoration-from-font" href="{{ .RelPermalink }}">
-                Show posts →
-              </a>
+    <article
+        class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+        <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
+            <br class="hx-mt-1.5 hx-text-sm" />
+            <h1
+                class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">
+                {{ .Title }}</h1>
+            <div class="hx-mb-6"></div>
+            <p class="hx-mb-12 hx-text-center hx-text-md hx-text-gray-500 dark:hx-text-gray-400">
+                {{- $numberOfCats := len .Site.Taxonomies.categories }}
+                <a href="/blog"  onmouseover="this.style.textDecoration='underline';"
+                    onmouseout="this.style.textDecoration='none';">← Back to blog</a> | {{ $numberOfCats}} categorie{{ if (ne $numberOfCats 1) }}s{{
+                end }} in total.
             </p>
-          </div>
-        {{- end }}
-        {{- end }}
-      </main>
+            <div class="hx-justify-center hx-mx-4 hx-flex hx-flex-wrap hx-gap-4 hx-gap-x-1.5">
+                {{- $type := .Type }}
+                {{- range $key, $value := .Data.Terms.Alphabetical }}
+                {{- $name := .Name }}
+                {{- $count := .Count }}
+                {{- with site.GetPage (printf "/%s/%s" $type $name) }}
+                <ul>
+                    <a style="text-decoration: none; display: inline"
+                        class="not-prose hx-inline-flex hx-font-mono hx-items-center hx-rounded-xl hx-gap-2 hx-px-3 hx-py-1.5 hx-text-base hx-text-gray-600 dark:hx-text-gray-200 hx-bg-gray-100 dark:hx-bg-neutral-800 dark:hx-border-neutral-800 hx-border hover:hx-border-gray-400 dark:hover:hx-text-gray-50 dark:hover:hx-border-gray-600 hx-transition-all hx-ease-in hx-duration-200"
+                        href="{{ .RelPermalink }}">
+                        <strong>{{ .Name | humanize }}</strong> ({{ $count }})
+                    </a>
+                </ul>
+                {{- end }}
+                {{- end }}
+            </div>
+        </main>
     </article>
     <div class="max-xl:hx-hidden hx-h-0 hx-w-64 hx-shrink-0"></div>
 
-  </div>
-  {{ end }}
+</div>
+{{ end }}
