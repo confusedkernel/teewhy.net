@@ -19,7 +19,7 @@ layout: wide
 <!-- card screenshot size: 125*35 -->
 
 {{< hextra/feature-grid >}}
-  {{< hextra/feature-card
+    {{< hextra/feature-card
     title="center-stage.nvim"
     subtitle="Lua | 2024"
     link="https://github.com/nottyl/center-stage.nvim"
@@ -28,20 +28,22 @@ layout: wide
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(90,125,147,0.55),hsla(0,0%,100%,0));"
   >}}
-  {{< hextra/feature-card
-    title="Discord Music Bot"
-    subtitle="Java | 2022"
-    link="https://github.com/nottyl/EarwormsBot"
-    image="/images/port/earworm.png"
-    imageClass="hx-w-[180%] sm:hx-w-[120%] dark:hx-opacity-90"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(90,125,147,0.55),hsla(0,0%,100%,0));"
-  >}}
-  {{< hextra/feature-card
+
+    {{< hextra/feature-card
     title="Catan in TUI"
     subtitle="C, Ncurses | 2023"
     link="https://github.com/nottyl/Catan"
     image="/images/port/catan-dark.png"
+    imageClass="hx-w-[180%] sm:hx-w-[120%] dark:hx-opacity-90"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(90,125,147,0.55),hsla(0,0%,100%,0));"
+  >}}
+
+    {{< hextra/feature-card
+    title="Discord Music Bot"
+    subtitle="Java | 2022"
+    link="https://github.com/nottyl/EarwormsBot"
+    image="/images/port/earworm.png"
     imageClass="hx-w-[180%] sm:hx-w-[120%] dark:hx-opacity-90"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(90,125,147,0.55),hsla(0,0%,100%,0));"

@@ -8,6 +8,10 @@ enableRobotsTXT: false
 enableGitInfo: true
 hasCJKLanguage: true
 
+taxonomies:
+  category: categories
+  tag: tags
+
 # Languages
 defaultContentLanguage: en
 languages:

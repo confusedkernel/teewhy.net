@@ -1,5 +1,5 @@
 ---
-title: Neovim Noob and His Plugins
+title: 'How to Neovim: Plugins'
 cascade:
     type: blog
 date: 2023-09-06T14:17:51+08:00
